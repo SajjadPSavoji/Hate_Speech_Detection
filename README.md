@@ -25,6 +25,49 @@ Results are grouped under the appropriate model.
 </tr>
 </table>
 
+<table>
+  <tr>
+    <td> Model Name </td>
+    <td> Data Partition </td>
+    <td> Accuracy </td>
+    <td> Precision </td>
+    <td> Recall </td>
+    <td> F1-Score </td>
+  </tr>
+  <tr>
+    <td> BERT </td>
+    <td> Train </td>
+    <td> 0.70 </td>
+    <td> 0.65 </td>
+    <td> 0.95 </td>
+    <td> 0.65 </td>
+  </tr>
+    <tr>
+    <td> BERT </td>
+    <td> Test </td>
+    <td> 0.48 </td>
+    <td> 0.44 </td>
+    <td> 0.97 </td>
+    <td> 0.61 </td>
+  </tr>
+    <tr>
+    <td> XLNet </td>
+    <td> Train </td>
+    <td> 0.70 </td>
+    <td> 0.60 </td>
+    <td> 0.88 </td>
+    <td> 0.70 </td>
+  </tr>
+      <tr>
+    <td> XLNet </td>
+    <td> Test </td>
+    <td> 0.56 </td>
+    <td> 0.49 </td>
+    <td> 0.84 </td>
+    <td> 0.62 </td>
+  </tr>
+</table>
+
 ## Resources
 - [BERT in Pytorch](https://neptune.ai/blog/how-to-code-bert-using-pytorch-tutorial)
 - [XLNet in Pytorch](https://www.kaggle.com/code/jaskaransingh/xlnet-fine-tuning-with-pytorch)
