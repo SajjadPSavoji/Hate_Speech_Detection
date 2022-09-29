@@ -15,8 +15,8 @@ Results are grouped under the appropriate model.
 </tr>
 <tr>
 <td> BERT </td>
-<td> ![bert cost curve](https://github.com/SajjadPSavoji/Hate_Speech_Detection/blob/main/Assets/Screen%20Shot%202022-09-29%20at%202.33.38%20PM.png) </td>
-<td> ![bert performace curve](https://github.com/SajjadPSavoji/Hate_Speech_Detection/blob/main/Assets/Screen%20Shot%202022-09-29%20at%202.33.57%20PM.png) </td>
+<td> ![bertcostcurve](https://github.com/SajjadPSavoji/Hate_Speech_Detection/blob/main/Assets/Screen%20Shot%202022-09-29%20at%202.33.38%20PM.png) </td>
+<td> ![bertperformacecurve](https://github.com/SajjadPSavoji/Hate_Speech_Detection/blob/main/Assets/Screen%20Shot%202022-09-29%20at%202.33.57%20PM.png) </td>
 </tr>
 <tr>
 <td> XLNet </td>
